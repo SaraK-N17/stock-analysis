@@ -7,6 +7,25 @@ Provide analysis of Steve's stock data from 2017 and 2018. Steve would like to a
 
 ## Results
 
+**The Results of the Analysis for 2017:**
+
+![image](https://user-images.githubusercontent.com/95710184/148834877-87007e6b-e818-49f6-b9f4-a630921fb29e.png)
+
+**The Results of the Analysis for 2017:**
+
+![image](https://user-images.githubusercontent.com/95710184/148834890-1a5abad6-fb4c-4c76-a095-5b637acae790.png)
+
+
+**Using VBA code for a timer, the time it takes to run was able to be captured.
+     
+     'Start timer
+      Dim startTime As Single
+      Dim endTime  As Single
+      startTime = Timer
+      
+      'End Timer
+      endTime = Timer
+
 **Intially, the VBA code ran in:**
 
 0.7265625 seconds for 2017
@@ -29,4 +48,10 @@ Provide analysis of Steve's stock data from 2017 and 2018. Steve would like to a
 
 
 **Refactoring improved the time taken to run the code.**
+
+##Summary
+
+**1) What are the advantages or disadvantages of refactoring code?**
+
+**2) How do these pros and cons apply to refactoring the original VBA script?**
 
