@@ -13,7 +13,7 @@ After completion of the analysis, it is determined that overall stocks performed
 
 ![image](https://user-images.githubusercontent.com/95710184/148834877-87007e6b-e818-49f6-b9f4-a630921fb29e.png)
 
-**The Results of the Analysis for 2017:**
+**The Results of the Analysis for 2018:**
 
 ![image](https://user-images.githubusercontent.com/95710184/148834890-1a5abad6-fb4c-4c76-a095-5b637acae790.png)
 
