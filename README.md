@@ -8,6 +8,7 @@ Provide analysis of Steve's stock data from 2017 and 2018. Steve would like to a
 ## Results
 
 After completion of the analysis, it is determined that overall stocks performed better in 2017 than in 2018. Results are shown below.
+
 **The Results of the Analysis for 2017:**
 
 ![image](https://user-images.githubusercontent.com/95710184/148834877-87007e6b-e818-49f6-b9f4-a630921fb29e.png)
