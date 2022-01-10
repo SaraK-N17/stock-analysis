@@ -50,7 +50,7 @@ After completion of the analysis, it is determined that overall stocks performed
 
 **Refactoring improved the time taken to run the code.**
 
-##Summary
+## Summary
 
 **1) What are the advantages or disadvantages of refactoring code?**
 The advantages of refactoring the code include increased efficiency in time to run the code and space required to save the code. Additionally, there are opportunities to improve the appearance and readability with refactoring by cleaning up anything unnecessarily complex. Refactored code is also more scalabale and potentially easier to reuse in the future. However, the time saving advantages may strongly favor very large data sets as the time saving is minimal on a data set of this size. If the code is working well, refactoring may not make sense, especially if deadlines are involved.
